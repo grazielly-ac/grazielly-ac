@@ -1,8 +1,8 @@
 ### Hi there 👋 
 #### I'm from Brazil
 
-![Grazielly's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=grazielly-ac&show_icons=true&theme=algolia)
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=grazielly-ac&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Grazielly's GitHub stats](https://github-readme-stats.vercel.app/api?username=grazielly-ac&show_icons=true&theme=algolia)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grazielly-ac&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div style="display: inline_block"><br>
